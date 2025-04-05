@@ -118,7 +118,7 @@
     @apply border-border outline-ring/50;
   }
   body {
-    @apply text-white bg-primary leading-loose;
+    @apply text-white bg-[#1c1c22] leading-loose;
     font-family: var(--font-jetbrains-mono), monospace;
   }
   .h1 {
